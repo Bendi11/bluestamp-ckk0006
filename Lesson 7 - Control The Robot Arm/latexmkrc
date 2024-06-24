@@ -1,0 +1,2 @@
+$out_dir="./build";
+$success_cmd="mv ./build/Lesson7.pdf ./"
